@@ -27,7 +27,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # allow /vendor/maruos files
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
-PRODUCT_NAME := aosp_e6533
+PRODUCT_NAME := maru_e6533
 PRODUCT_DEVICE := ivy
 PRODUCT_MODEL := Xperia Z3+ Dual (AOSP)
 PRODUCT_BRAND := Sony

@@ -25,7 +25,7 @@ $(call inherit-product, vendor/maruos/BoardConfigVendor.mk)
 # allow /vendor/maruos files
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
-PRODUCT_NAME := aosp_e6553
+PRODUCT_NAME := maru_e6553
 PRODUCT_DEVICE := ivy
 PRODUCT_MODEL := Xperia Z3+ (AOSP)
 PRODUCT_BRAND := Sony
